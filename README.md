@@ -1,90 +1,3 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>سياسة الخصوصية — Claude Arabic RTL Fix</title>
-<style>
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    font-family: "Noto Naskh Arabic", "Segoe UI", Tahoma, Arial, sans-serif;
-    background: #0f0f0f;
-    color: #f0ede8;
-    direction: rtl;
-    line-height: 1.9;
-    padding: 0;
-  }
-  .hero {
-    background: linear-gradient(135deg, #1a1a1a 0%, #2a1f1a 100%);
-    border-bottom: 1px solid #333;
-    padding: 40px 32px 32px;
-    text-align: center;
-  }
-  .logo {
-    width: 64px; height: 64px;
-    background: linear-gradient(135deg, #cc785c, #e8a87c);
-    border-radius: 16px;
-    display: inline-flex; align-items: center; justify-content: center;
-    font-size: 36px;
-    margin-bottom: 16px;
-  }
-  .hero h1 { font-size: 24px; font-weight: 700; color: #f0ede8; margin-bottom: 6px; }
-  .hero p  { font-size: 14px; color: #888; }
-  .container { max-width: 760px; margin: 0 auto; padding: 40px 24px 80px; }
-  .badge {
-    display: inline-flex; align-items: center; gap: 8px;
-    background: #1a2a1a; border: 1px solid #2d4a2d;
-    border-radius: 8px; padding: 8px 16px;
-    font-size: 13px; color: #4caf7d;
-    margin-bottom: 36px;
-  }
-  .badge::before { content: "✓"; font-weight: 700; }
-  section { margin-bottom: 36px; }
-  h2 {
-    font-size: 17px; font-weight: 700;
-    color: #e8a87c;
-    margin-bottom: 12px;
-    padding-bottom: 8px;
-    border-bottom: 1px solid #2a2a2a;
-    display: flex; align-items: center; gap: 10px;
-  }
-  h2 .icon {
-    width: 28px; height: 28px; border-radius: 7px;
-    background: #2a1f1a; border: 1px solid #3a2a1a;
-    display: inline-flex; align-items: center; justify-content: center;
-    font-size: 15px; flex-shrink: 0;
-  }
-  p { font-size: 14px; color: #ccc; margin-bottom: 10px; }
-  ul { padding-right: 20px; padding-left: 0; margin-bottom: 10px; }
-  ul li { font-size: 14px; color: #ccc; margin-bottom: 6px; }
-  ul li::marker { color: #cc785c; }
-  .highlight {
-    background: #1a1a1a; border: 1px solid #2a2a2a;
-    border-right: 3px solid #cc785c;
-    border-radius: 0 8px 8px 0;
-    padding: 14px 16px;
-    font-size: 14px; color: #ccc;
-    margin: 14px 0;
-  }
-  .contact-card {
-    background: #1a1a1a; border: 1px solid #333;
-    border-radius: 12px; padding: 20px 24px;
-    margin-top: 14px;
-  }
-  .contact-card a { color: #e8a87c; text-decoration: none; }
-  .contact-card a:hover { text-decoration: underline; }
-  .last-updated {
-    text-align: center; font-size: 12px; color: #555;
-    margin-top: 48px;
-    padding-top: 24px;
-    border-top: 1px solid #1e1e1e;
-  }
-  @media (max-width: 600px) {
-    .hero { padding: 28px 20px; }
-    .container { padding: 28px 16px 60px; }
-  }
-</style>
-</head>
 <body>
 
 <div class="hero">
@@ -165,7 +78,7 @@
     <div class="contact-card">
       <p style="margin:0;color:#ccc;">
         البريد الإلكتروني:
-        <a href="mailto:privacy@rtl-fix.app">privacy@rtl-fix.app</a>
+        <a href="mailto:mustafa.a.aboelhamd@gmail.com">mustafa.a.aboelhamd@gmail.com</a>
       </p>
     </div>
   </section>
